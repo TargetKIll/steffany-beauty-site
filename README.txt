@@ -1,0 +1,1 @@
+Це архів сайту Steffany Beauty для завантаження на Vercel або Netlify.
